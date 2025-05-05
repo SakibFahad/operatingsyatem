@@ -1,0 +1,12 @@
+Process	BT	WT	TAT
+P1	5	11	16
+P2	3	8	11
+P3	8	14	22
+P4	6	14	20
+
+Average Waiting Time: 11.75
+Average Turnaround Time: 17.25
+
+Gantt Chart:
+| P1 | P2 | P3 | P4 | P1 | P2 | P3 | P4 | P1 | P3 | P4 | P3 |
+0   2   4   6   8   10   11   13   15   16   18   20   22
